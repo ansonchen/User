@@ -1,0 +1,8 @@
+[
+	{ "keys": ["ctrl+shift+up"], "command": "scroll_lines", "args": {"amount": 1.0} },
+	{ "keys": ["ctrl+shift+down"], "command": "scroll_lines", "args": {"amount": -1.0} },
+
+	{ "keys": ["ctrl+alt+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["ctrl+alt+down"], "command": "select_lines", "args": {"forward": true} },
+
+]
